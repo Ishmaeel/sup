@@ -1,0 +1,1 @@
+nativefier "https://web.whatsapp.com" --name "SupCha" --inject whatsapp_fix.js --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" --show-menu-bar --single-instance --tray start-in-tray --min-width 900 --min-height 600 
